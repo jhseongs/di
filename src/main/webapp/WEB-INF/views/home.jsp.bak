@@ -9,7 +9,6 @@
 <body>
 <h1>
 	Hello world!  최현욱
-	또 최현욱
 	테스트
 </h1>
 <form action="a.do" method="POST" name="first">
