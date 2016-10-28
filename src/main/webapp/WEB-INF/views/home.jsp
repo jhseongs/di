@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  최현욱
+	Hello world!  성지현
 	테스트
 </h1>
 <form action="a.do" method="POST" name="first">
