@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>지현Hello world!  최현욱</h1>
+<h1>수정~~~~~~~~~~~~~~</h1>
 <form action="a.do" method="POST" name="first">
 	<input type="text" name="test">
 	<button type="submit">전송</button>
